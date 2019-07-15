@@ -7,7 +7,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "tachyons": "^4.11.1",
-    "homepage": "http://Shreeya12.github.io/robofriends"
+    "homepage": "http://Shreeya12.github.io/react-app-robotic-search"
   },
   "scripts": {
     "start": "react-scripts start",
